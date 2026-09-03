@@ -75,24 +75,15 @@
       }
       .verified strong { color: var(--green); font-size: 14px; }
 
-      .controls {
-        display: flex;
-        justify-content: space-between;
-        gap: 18px;
-        align-items: center;
-        margin: 24px 0 14px;
-      }
-
-      .product-tabs, .sku-tabs, .view-tabs {
+      .product-tabs, .sku-tabs {
         display: flex;
         gap: 6px;
         overflow-x: auto;
         scrollbar-width: thin;
       }
 
-      .product-tabs { flex: 1; padding: 3px 0 8px; }
+      .product-tabs { margin: 24px 0 14px; padding: 3px 0 8px; }
       .sku-tabs { padding: 2px 0 14px; }
-      .view-tabs { flex: none; padding: 4px; background: #e8e8ed; border-radius: 8px; }
 
       .tab, .sku {
         min-height: 40px;
@@ -236,8 +227,7 @@
         .apple-mark { width: 54px; height: 54px; font-size: 30px; }
         h1 { font-size: 27px; }
         .verified { grid-column: 1 / -1; justify-items: start; padding-top: 4px; }
-        .controls { display: grid; gap: 12px; margin-top: 18px; }
-        .view-tabs { width: fit-content; }
+        .product-tabs { margin-top: 18px; }
         .side { grid-template-columns: 1fr; }
         .panel-title { align-items: flex-start; flex-direction: column; padding: 17px; }
         .table-scroll { overflow: visible; padding: 10px; }
@@ -293,13 +283,7 @@
         </div>
       </header>
 
-      <section class="controls">
-        <nav class="product-tabs" aria-label="产品线"></nav>
-        <div class="view-tabs" aria-label="价格类型">
-          <button class="tab on" data-view="all" type="button">地区对比</button>
-          <button class="tab" data-view="education" type="button">教育优惠</button>
-        </div>
-      </section>
+      <nav class="product-tabs" aria-label="产品线"></nav>
 
       <nav class="sku-tabs" aria-label="产品配置"></nav>
 
@@ -344,7 +328,6 @@
       const D = DATA;
       let activeLine = D.lines[0][0];
       let activeSku = D.skus.find((sku) => sku[1] === activeLine)[0];
-      let activeView = "all";
       const $ = (selector) => document.querySelector(selector);
 
       function money(value, currency) {
@@ -396,15 +379,14 @@
 
         const sku = D.skus.find((item) => item[0] === activeSku);
         const rows = priceRows();
-        const visible = activeView === "education" ? rows.filter((row) => row.education != null) : rows;
         const priced = rows.filter((row) => row.cny != null);
         const lowest = priced[0];
         const highest = priced[priced.length - 1];
 
         $(".panel-title h2").textContent = skuLabel(sku);
-        $(".row-count").textContent = `${visible.filter((row) => row.local != null).length} 个地区已核验`;
-        $(".tbody").innerHTML = visible.map((row, index) => {
-          const source = activeView === "education" && row.raw?.[5] ? row.raw[5] : row.raw?.[4] || "#";
+        $(".row-count").textContent = `${rows.filter((row) => row.local != null).length} 个地区已核验`;
+        $(".tbody").innerHTML = rows.map((row, index) => {
+          const source = row.raw?.[4] || "#";
           const rank = row.cny == null ? "—" : index + 1;
           return `<a class="row" href="${source}" target="_blank" rel="noreferrer">
             <span class="rank" data-label="排名">${rank}</span>
@@ -442,14 +424,8 @@
       document.addEventListener("click", (event) => {
         const lineButton = event.target.closest("[data-line]");
         const skuButton = event.target.closest("[data-sku]");
-        const viewButton = event.target.closest("[data-view]");
         if (lineButton) { activeLine = lineButton.dataset.line; draw(); }
         if (skuButton) { activeSku = skuButton.dataset.sku; draw(); }
-        if (viewButton) {
-          activeView = viewButton.dataset.view;
-          document.querySelectorAll("[data-view]").forEach((button) => button.classList.toggle("on", button.dataset.view === activeView));
-          draw();
-        }
       });
 
       draw();
