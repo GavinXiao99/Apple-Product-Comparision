@@ -1,0 +1,4912 @@
+{
+  "generatedAt": "2026-09-03T16:01:05.058995+00:00",
+  "sourcePageCount": 250,
+  "checkedRows": 490,
+  "changedRows": 0,
+  "unmatchedRows": 0,
+  "failedPages": {},
+  "changes": [],
+  "verified": [
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 2999.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "b6d0fd16342b769d94baa13183e00c7af32d7cf110ae93a42e18d434ed05f625"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 2799.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cd1d5b363ae321bb5667508e662b62eec5a52b0c0d87d8857fe0dc26b76c0a69"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "au",
+      "field": "localPrice",
+      "price": 1249.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "5d646ecbf472744d867d3803515d5152101c6df052ce849c970717d480be2085"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 1169.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "7c7797ef70a83553bdac771fd64d6a755f018f26ee6e89c47ee61658a077ac1c"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 999.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "6b879f8396e398196e075815fe0525951f7c1fc5306f7d02a761e4e5de05ce43"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 929.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "da62963ac5c78ec15a752592716e49a4887f0311a6621b408afec31dcfd82f32"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 5999.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "e1715260f6f28a7ce29ab9d71cb5c197821b1fbdf56c77020e71ba9b144a158c"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 5599.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "29d24d67b2745c006c0bc21f6cf2fc6a648da3a14aaab05900afccdcd323a187"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 129800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "8aab3084eeff9e23e647309bc21ff3b7b1d91467950e497e815c2a522efcf7f5"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "jp",
+      "field": "educationPrice",
+      "price": 120800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0e13b6571d054ecda537e90f280ac9a39cbcb45b9fee480dbb88f0a7a6a2ac0e"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 1249000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "916fe32b0ce53bc89836bfb99bfcba3e7f8f9613edfbe52b1a626800ea2cbb6a"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "kr",
+      "field": "educationPrice",
+      "price": 1170000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "47a18885d49609a004ce419e8f957f9784a212cbc5edb5cf990cb8644692253a"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "my",
+      "field": "localPrice",
+      "price": 3499.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0b71a0b0a4812ff1c59102ae2038a073e5191d0c3c49abd068d8576ba1fa3438"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 3269.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "3ff329af7bb894139933eb56431b1f0dac6b66a5fb58ec99fa095552459dad55"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1149.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "32b6d16b3e5b7e71382c0187256860f081dcd82c87443f4a29513f709f23614c"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 1069.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bb505e8152dc031ca9f698de0f5fb522874c7e8be9e1bc2b87749542821c2b43"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "th",
+      "field": "localPrice",
+      "price": 27900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cce9ae97ce158b402eaf44b6d9397bff56e28a3814e2406bd732508cceb443d7"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "th",
+      "field": "educationPrice",
+      "price": 26000.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "772a265e797eaba4159ac2f09810822e6a3def45a26ed0a3f461fd9b00ad18b8"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 24900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "653d23276368bfd130e28188fd3ae4550fa80d776f008c443e20f503933fc4c6"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "tw",
+      "field": "educationPrice",
+      "price": 23200.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "f66af28e9a28eff3595f028ab5b8d3e6d528fe2c85455fabdcd90e889eb6d450"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 749.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bce94b4cfc08f98886ba5d30455d35b7a8ef0232f4f86d04d754197a711a751a"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 699.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "54b7f391af5dd780de07b4d40b6c0bc8187dbec26f4b4af98caa250dc99db4bf"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "us",
+      "field": "localPrice",
+      "price": 749.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "5f97a6c8e3e5a581ac73ff6999b34fd712e046b734e45493783a6f067bad4b7e"
+    },
+    {
+      "skuId": "ipad-air-11-128",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 699.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cff20eca38d13610931a4fb5663bae71eb326e62174fdf829960f0728f75ccb9"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 3399.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "b6d0fd16342b769d94baa13183e00c7af32d7cf110ae93a42e18d434ed05f625"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 3199.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cd1d5b363ae321bb5667508e662b62eec5a52b0c0d87d8857fe0dc26b76c0a69"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "au",
+      "field": "localPrice",
+      "price": 1449.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "5d646ecbf472744d867d3803515d5152101c6df052ce849c970717d480be2085"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 1369.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "7c7797ef70a83553bdac771fd64d6a755f018f26ee6e89c47ee61658a077ac1c"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1149.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "6b879f8396e398196e075815fe0525951f7c1fc5306f7d02a761e4e5de05ce43"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 1079.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "da62963ac5c78ec15a752592716e49a4887f0311a6621b408afec31dcfd82f32"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 6499.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "56fd9cf69d0c9aea47f57b31f1c290405bd1b20b663c20356d33ee0b99f0b9f7"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 6099.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "10005273ae04d728c76d14286b57c43d38c6c1bdc5909ca4013fafcea10382cd"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 6799.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "e1715260f6f28a7ce29ab9d71cb5c197821b1fbdf56c77020e71ba9b144a158c"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 6399.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "29d24d67b2745c006c0bc21f6cf2fc6a648da3a14aaab05900afccdcd323a187"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 146800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "8aab3084eeff9e23e647309bc21ff3b7b1d91467950e497e815c2a522efcf7f5"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "jp",
+      "field": "educationPrice",
+      "price": 137800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0e13b6571d054ecda537e90f280ac9a39cbcb45b9fee480dbb88f0a7a6a2ac0e"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 1419000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "916fe32b0ce53bc89836bfb99bfcba3e7f8f9613edfbe52b1a626800ea2cbb6a"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "kr",
+      "field": "educationPrice",
+      "price": 1340000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "47a18885d49609a004ce419e8f957f9784a212cbc5edb5cf990cb8644692253a"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "my",
+      "field": "localPrice",
+      "price": 3899.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0b71a0b0a4812ff1c59102ae2038a073e5191d0c3c49abd068d8576ba1fa3438"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 3669.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "3ff329af7bb894139933eb56431b1f0dac6b66a5fb58ec99fa095552459dad55"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1299.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "32b6d16b3e5b7e71382c0187256860f081dcd82c87443f4a29513f709f23614c"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 1219.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bb505e8152dc031ca9f698de0f5fb522874c7e8be9e1bc2b87749542821c2b43"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "th",
+      "field": "localPrice",
+      "price": 31900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cce9ae97ce158b402eaf44b6d9397bff56e28a3814e2406bd732508cceb443d7"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "th",
+      "field": "educationPrice",
+      "price": 30000.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "772a265e797eaba4159ac2f09810822e6a3def45a26ed0a3f461fd9b00ad18b8"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 28400.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "653d23276368bfd130e28188fd3ae4550fa80d776f008c443e20f503933fc4c6"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "tw",
+      "field": "educationPrice",
+      "price": 26700.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "f66af28e9a28eff3595f028ab5b8d3e6d528fe2c85455fabdcd90e889eb6d450"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 849.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bce94b4cfc08f98886ba5d30455d35b7a8ef0232f4f86d04d754197a711a751a"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 799.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "54b7f391af5dd780de07b4d40b6c0bc8187dbec26f4b4af98caa250dc99db4bf"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "us",
+      "field": "localPrice",
+      "price": 849.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "5f97a6c8e3e5a581ac73ff6999b34fd712e046b734e45493783a6f067bad4b7e"
+    },
+    {
+      "skuId": "ipad-air-11-256",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 799.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cff20eca38d13610931a4fb5663bae71eb326e62174fdf829960f0728f75ccb9"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 4199.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "b6d0fd16342b769d94baa13183e00c7af32d7cf110ae93a42e18d434ed05f625"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 3999.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cd1d5b363ae321bb5667508e662b62eec5a52b0c0d87d8857fe0dc26b76c0a69"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "au",
+      "field": "localPrice",
+      "price": 1799.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "5d646ecbf472744d867d3803515d5152101c6df052ce849c970717d480be2085"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 1719.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "7c7797ef70a83553bdac771fd64d6a755f018f26ee6e89c47ee61658a077ac1c"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1429.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "6b879f8396e398196e075815fe0525951f7c1fc5306f7d02a761e4e5de05ce43"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 1359.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "da62963ac5c78ec15a752592716e49a4887f0311a6621b408afec31dcfd82f32"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 8199.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "56fd9cf69d0c9aea47f57b31f1c290405bd1b20b663c20356d33ee0b99f0b9f7"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 7799.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "10005273ae04d728c76d14286b57c43d38c6c1bdc5909ca4013fafcea10382cd"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 8399.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "e1715260f6f28a7ce29ab9d71cb5c197821b1fbdf56c77020e71ba9b144a158c"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 7999.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "29d24d67b2745c006c0bc21f6cf2fc6a648da3a14aaab05900afccdcd323a187"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 181800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "8aab3084eeff9e23e647309bc21ff3b7b1d91467950e497e815c2a522efcf7f5"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "jp",
+      "field": "educationPrice",
+      "price": 172800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0e13b6571d054ecda537e90f280ac9a39cbcb45b9fee480dbb88f0a7a6a2ac0e"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 1769000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "916fe32b0ce53bc89836bfb99bfcba3e7f8f9613edfbe52b1a626800ea2cbb6a"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "kr",
+      "field": "educationPrice",
+      "price": 1690000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "47a18885d49609a004ce419e8f957f9784a212cbc5edb5cf990cb8644692253a"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "my",
+      "field": "localPrice",
+      "price": 4799.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0b71a0b0a4812ff1c59102ae2038a073e5191d0c3c49abd068d8576ba1fa3438"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 4569.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "3ff329af7bb894139933eb56431b1f0dac6b66a5fb58ec99fa095552459dad55"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1599.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "32b6d16b3e5b7e71382c0187256860f081dcd82c87443f4a29513f709f23614c"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 1519.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bb505e8152dc031ca9f698de0f5fb522874c7e8be9e1bc2b87749542821c2b43"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "th",
+      "field": "localPrice",
+      "price": 38900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cce9ae97ce158b402eaf44b6d9397bff56e28a3814e2406bd732508cceb443d7"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "th",
+      "field": "educationPrice",
+      "price": 37000.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "772a265e797eaba4159ac2f09810822e6a3def45a26ed0a3f461fd9b00ad18b8"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 35400.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "653d23276368bfd130e28188fd3ae4550fa80d776f008c443e20f503933fc4c6"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "tw",
+      "field": "educationPrice",
+      "price": 33700.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "f66af28e9a28eff3595f028ab5b8d3e6d528fe2c85455fabdcd90e889eb6d450"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1049.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bce94b4cfc08f98886ba5d30455d35b7a8ef0232f4f86d04d754197a711a751a"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 999.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "54b7f391af5dd780de07b4d40b6c0bc8187dbec26f4b4af98caa250dc99db4bf"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1049.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "5f97a6c8e3e5a581ac73ff6999b34fd712e046b734e45493783a6f067bad4b7e"
+    },
+    {
+      "skuId": "ipad-air-11-512",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 999.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cff20eca38d13610931a4fb5663bae71eb326e62174fdf829960f0728f75ccb9"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 3999.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "b6d0fd16342b769d94baa13183e00c7af32d7cf110ae93a42e18d434ed05f625"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 3799.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cd1d5b363ae321bb5667508e662b62eec5a52b0c0d87d8857fe0dc26b76c0a69"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "au",
+      "field": "localPrice",
+      "price": 1599.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "5d646ecbf472744d867d3803515d5152101c6df052ce849c970717d480be2085"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 1509.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "7c7797ef70a83553bdac771fd64d6a755f018f26ee6e89c47ee61658a077ac1c"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1299.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "6b879f8396e398196e075815fe0525951f7c1fc5306f7d02a761e4e5de05ce43"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 1229.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "da62963ac5c78ec15a752592716e49a4887f0311a6621b408afec31dcfd82f32"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 7499.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "e1715260f6f28a7ce29ab9d71cb5c197821b1fbdf56c77020e71ba9b144a158c"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 7099.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "29d24d67b2745c006c0bc21f6cf2fc6a648da3a14aaab05900afccdcd323a187"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 169800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "8aab3084eeff9e23e647309bc21ff3b7b1d91467950e497e815c2a522efcf7f5"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "jp",
+      "field": "educationPrice",
+      "price": 160800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0e13b6571d054ecda537e90f280ac9a39cbcb45b9fee480dbb88f0a7a6a2ac0e"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 1549000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "916fe32b0ce53bc89836bfb99bfcba3e7f8f9613edfbe52b1a626800ea2cbb6a"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "kr",
+      "field": "educationPrice",
+      "price": 1470000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "47a18885d49609a004ce419e8f957f9784a212cbc5edb5cf990cb8644692253a"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "my",
+      "field": "localPrice",
+      "price": 4399.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0b71a0b0a4812ff1c59102ae2038a073e5191d0c3c49abd068d8576ba1fa3438"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 4169.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "3ff329af7bb894139933eb56431b1f0dac6b66a5fb58ec99fa095552459dad55"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1449.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "32b6d16b3e5b7e71382c0187256860f081dcd82c87443f4a29513f709f23614c"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 1369.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bb505e8152dc031ca9f698de0f5fb522874c7e8be9e1bc2b87749542821c2b43"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "th",
+      "field": "localPrice",
+      "price": 34900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cce9ae97ce158b402eaf44b6d9397bff56e28a3814e2406bd732508cceb443d7"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "th",
+      "field": "educationPrice",
+      "price": 33100.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "772a265e797eaba4159ac2f09810822e6a3def45a26ed0a3f461fd9b00ad18b8"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 31900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "653d23276368bfd130e28188fd3ae4550fa80d776f008c443e20f503933fc4c6"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "tw",
+      "field": "educationPrice",
+      "price": 30200.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "f66af28e9a28eff3595f028ab5b8d3e6d528fe2c85455fabdcd90e889eb6d450"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 949.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bce94b4cfc08f98886ba5d30455d35b7a8ef0232f4f86d04d754197a711a751a"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 899.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "54b7f391af5dd780de07b4d40b6c0bc8187dbec26f4b4af98caa250dc99db4bf"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "us",
+      "field": "localPrice",
+      "price": 949.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "5f97a6c8e3e5a581ac73ff6999b34fd712e046b734e45493783a6f067bad4b7e"
+    },
+    {
+      "skuId": "ipad-air-13-128",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 899.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cff20eca38d13610931a4fb5663bae71eb326e62174fdf829960f0728f75ccb9"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 4399.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "b6d0fd16342b769d94baa13183e00c7af32d7cf110ae93a42e18d434ed05f625"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 4199.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cd1d5b363ae321bb5667508e662b62eec5a52b0c0d87d8857fe0dc26b76c0a69"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "au",
+      "field": "localPrice",
+      "price": 1799.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "5d646ecbf472744d867d3803515d5152101c6df052ce849c970717d480be2085"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 1709.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "7c7797ef70a83553bdac771fd64d6a755f018f26ee6e89c47ee61658a077ac1c"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1449.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "6b879f8396e398196e075815fe0525951f7c1fc5306f7d02a761e4e5de05ce43"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 1379.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "da62963ac5c78ec15a752592716e49a4887f0311a6621b408afec31dcfd82f32"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 8199.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "56fd9cf69d0c9aea47f57b31f1c290405bd1b20b663c20356d33ee0b99f0b9f7"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 7799.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "10005273ae04d728c76d14286b57c43d38c6c1bdc5909ca4013fafcea10382cd"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 8299.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "e1715260f6f28a7ce29ab9d71cb5c197821b1fbdf56c77020e71ba9b144a158c"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 7899.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "29d24d67b2745c006c0bc21f6cf2fc6a648da3a14aaab05900afccdcd323a187"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 186800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "8aab3084eeff9e23e647309bc21ff3b7b1d91467950e497e815c2a522efcf7f5"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "jp",
+      "field": "educationPrice",
+      "price": 177800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0e13b6571d054ecda537e90f280ac9a39cbcb45b9fee480dbb88f0a7a6a2ac0e"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 1719000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "916fe32b0ce53bc89836bfb99bfcba3e7f8f9613edfbe52b1a626800ea2cbb6a"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "kr",
+      "field": "educationPrice",
+      "price": 1640000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "47a18885d49609a004ce419e8f957f9784a212cbc5edb5cf990cb8644692253a"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "my",
+      "field": "localPrice",
+      "price": 4799.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0b71a0b0a4812ff1c59102ae2038a073e5191d0c3c49abd068d8576ba1fa3438"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 4569.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "3ff329af7bb894139933eb56431b1f0dac6b66a5fb58ec99fa095552459dad55"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1599.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "32b6d16b3e5b7e71382c0187256860f081dcd82c87443f4a29513f709f23614c"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 1519.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bb505e8152dc031ca9f698de0f5fb522874c7e8be9e1bc2b87749542821c2b43"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "th",
+      "field": "localPrice",
+      "price": 38900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cce9ae97ce158b402eaf44b6d9397bff56e28a3814e2406bd732508cceb443d7"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "th",
+      "field": "educationPrice",
+      "price": 37100.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "772a265e797eaba4159ac2f09810822e6a3def45a26ed0a3f461fd9b00ad18b8"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 35400.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "653d23276368bfd130e28188fd3ae4550fa80d776f008c443e20f503933fc4c6"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "tw",
+      "field": "educationPrice",
+      "price": 33700.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "f66af28e9a28eff3595f028ab5b8d3e6d528fe2c85455fabdcd90e889eb6d450"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1049.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bce94b4cfc08f98886ba5d30455d35b7a8ef0232f4f86d04d754197a711a751a"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 999.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "54b7f391af5dd780de07b4d40b6c0bc8187dbec26f4b4af98caa250dc99db4bf"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1049.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "5f97a6c8e3e5a581ac73ff6999b34fd712e046b734e45493783a6f067bad4b7e"
+    },
+    {
+      "skuId": "ipad-air-13-256",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 999.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cff20eca38d13610931a4fb5663bae71eb326e62174fdf829960f0728f75ccb9"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 5199.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "b6d0fd16342b769d94baa13183e00c7af32d7cf110ae93a42e18d434ed05f625"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 4999.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cd1d5b363ae321bb5667508e662b62eec5a52b0c0d87d8857fe0dc26b76c0a69"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "au",
+      "field": "localPrice",
+      "price": 2149.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "5d646ecbf472744d867d3803515d5152101c6df052ce849c970717d480be2085"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 2059.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "7c7797ef70a83553bdac771fd64d6a755f018f26ee6e89c47ee61658a077ac1c"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1729.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "6b879f8396e398196e075815fe0525951f7c1fc5306f7d02a761e4e5de05ce43"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 1659.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "da62963ac5c78ec15a752592716e49a4887f0311a6621b408afec31dcfd82f32"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 9899.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "56fd9cf69d0c9aea47f57b31f1c290405bd1b20b663c20356d33ee0b99f0b9f7"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 9499.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "10005273ae04d728c76d14286b57c43d38c6c1bdc5909ca4013fafcea10382cd"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 9899.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "e1715260f6f28a7ce29ab9d71cb5c197821b1fbdf56c77020e71ba9b144a158c"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 9499.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "29d24d67b2745c006c0bc21f6cf2fc6a648da3a14aaab05900afccdcd323a187"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 221800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "8aab3084eeff9e23e647309bc21ff3b7b1d91467950e497e815c2a522efcf7f5"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "jp",
+      "field": "educationPrice",
+      "price": 212800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0e13b6571d054ecda537e90f280ac9a39cbcb45b9fee480dbb88f0a7a6a2ac0e"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 2069000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "916fe32b0ce53bc89836bfb99bfcba3e7f8f9613edfbe52b1a626800ea2cbb6a"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "kr",
+      "field": "educationPrice",
+      "price": 1990000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "47a18885d49609a004ce419e8f957f9784a212cbc5edb5cf990cb8644692253a"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "my",
+      "field": "localPrice",
+      "price": 5699.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0b71a0b0a4812ff1c59102ae2038a073e5191d0c3c49abd068d8576ba1fa3438"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 5469.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "3ff329af7bb894139933eb56431b1f0dac6b66a5fb58ec99fa095552459dad55"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1899.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "32b6d16b3e5b7e71382c0187256860f081dcd82c87443f4a29513f709f23614c"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 1819.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bb505e8152dc031ca9f698de0f5fb522874c7e8be9e1bc2b87749542821c2b43"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "th",
+      "field": "localPrice",
+      "price": 45900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cce9ae97ce158b402eaf44b6d9397bff56e28a3814e2406bd732508cceb443d7"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "th",
+      "field": "educationPrice",
+      "price": 44100.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "772a265e797eaba4159ac2f09810822e6a3def45a26ed0a3f461fd9b00ad18b8"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 42400.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "653d23276368bfd130e28188fd3ae4550fa80d776f008c443e20f503933fc4c6"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "tw",
+      "field": "educationPrice",
+      "price": 40700.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "f66af28e9a28eff3595f028ab5b8d3e6d528fe2c85455fabdcd90e889eb6d450"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1249.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bce94b4cfc08f98886ba5d30455d35b7a8ef0232f4f86d04d754197a711a751a"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 1199.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "54b7f391af5dd780de07b4d40b6c0bc8187dbec26f4b4af98caa250dc99db4bf"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1249.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "5f97a6c8e3e5a581ac73ff6999b34fd712e046b734e45493783a6f067bad4b7e"
+    },
+    {
+      "skuId": "ipad-air-13-512",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 1199.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-air",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cff20eca38d13610931a4fb5663bae71eb326e62174fdf829960f0728f75ccb9"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 4999.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "41800dd5799ed37cc3fb41dd52c856501a4662b03d0b45c75dbf7b79d8c7134b"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 4599.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "08144a98aab4c5e9eae1b7f70656d3ae73cb0009d920ad34f9de3d2ad4eb034d"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "au",
+      "field": "localPrice",
+      "price": 1999.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0337ef3af377d65762b8669a8a0b3f868573ba0edf7f6a292bc9218d93cbe992"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 1829.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "740a8c8a53fa8082ba17ec389e1ee252ccaf6eb30f25adc1b8a7e722643635dd"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1699.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "c710ca31c23a29916d7f31b44fad6a111ddd03e7cb1cd2216f95166b8801e8c6"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 1559.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "fa29360239ee0f64aed0216f41a9e320d3d447673288c9dffe9316fc1d09f5ba"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 10799.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "7ff83a4a76c588b8fa692cd01cde23331c8acc13e7bd90802d2b2295a366221c"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 9899.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cd45e308f3a2c69b8da91a1ef6e325fd853c4f7494f2ef296481d8c1c5d4f8da"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 9499.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "3446614d40e9550a7b2f0d0853d376fd3f183516e01518eae61086636dd9b1d2"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 8699.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "4f9e4f35fd8d5eb1e544d438a9031144f97c9a69bbdfcf9cd9100e7c8aaa2724"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 209800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "a1fafb7513ca7ef79a5b67b08b0484c62ef504d5bb82057752c633f06f5cd448"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "jp",
+      "field": "educationPrice",
+      "price": 191800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0f853562a971bca9db94f3d05e41e4131d74ee9d93b429d09c469bb8d58c1996"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 1999000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "02fe8a5f03da96f22362bd2a760a6071774b8fd71caa9ff542602793ce12a96c"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "kr",
+      "field": "educationPrice",
+      "price": 1830000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "48ee55d403a220dc3dc32d68413bffedb51a5db189a7ae7fae686da352c48141"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "my",
+      "field": "localPrice",
+      "price": 5499.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "81b40d3b84c5389f31c27144144d3dc7ada8cb7a5191d64f87f079f984704966"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 5039.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "fd0f08de00199ff3594e9d8ea1dbaef6f6bcf3c6541327f13333470a1a30429a"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1799.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "7cd66b14b4cf9255977e4107b6f2807297d744ae3304586aa49d8f157292aac2"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 1649.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "8a1102c733dd2c3df50eabe3dbf6f6b770bfa931f27cfec83a1b877d1e15ea77"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "th",
+      "field": "localPrice",
+      "price": 42900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "e0eaad5487dadc1f94b7091cf2a0d52c51b2ce56a1c908de088320ee91f9489d"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "th",
+      "field": "educationPrice",
+      "price": 39300.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "1d05d61f6f42530c5fff28eb6b49e59d44b9c35154b8eeb9e4b2a1e17d2db625"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 39900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "35a33249581d6e2b97b01b9e23b23bb24148f8abda7cce92a0a4d71e197aff05"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "tw",
+      "field": "educationPrice",
+      "price": 36600.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "f8006d0ac770d1e751c071207e3a09ed2dd443aa00899ee1f1b6d02a7d77309a"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1199.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bf1ed2003c1dd9dfb65b76bdaadcd74e52c368ee9984f1230a943d56b59f8983"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 1099.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "d1cf53562a19d3541b6dfe29f03778b5c757e551dc74364bdda91423d9a25e5f"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1199.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "a915a5e36a047814f223e0b05d6da688fe208bcde9a2e1c0cbac80ca8a3c878c"
+    },
+    {
+      "skuId": "ipad-pro-11-256",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 1099.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "1285fed73854763eb20a27f2e04d42755cbaa3c247ff7e90dd38539e26874114"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 6299.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "41800dd5799ed37cc3fb41dd52c856501a4662b03d0b45c75dbf7b79d8c7134b"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 5899.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "08144a98aab4c5e9eae1b7f70656d3ae73cb0009d920ad34f9de3d2ad4eb034d"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "au",
+      "field": "localPrice",
+      "price": 2599.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0337ef3af377d65762b8669a8a0b3f868573ba0edf7f6a292bc9218d93cbe992"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 2429.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "740a8c8a53fa8082ba17ec389e1ee252ccaf6eb30f25adc1b8a7e722643635dd"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 2099.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "c710ca31c23a29916d7f31b44fad6a111ddd03e7cb1cd2216f95166b8801e8c6"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 1959.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "fa29360239ee0f64aed0216f41a9e320d3d447673288c9dffe9316fc1d09f5ba"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 13299.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "7ff83a4a76c588b8fa692cd01cde23331c8acc13e7bd90802d2b2295a366221c"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 12399.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "cd45e308f3a2c69b8da91a1ef6e325fd853c4f7494f2ef296481d8c1c5d4f8da"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 11999.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "3446614d40e9550a7b2f0d0853d376fd3f183516e01518eae61086636dd9b1d2"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 11199.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "4f9e4f35fd8d5eb1e544d438a9031144f97c9a69bbdfcf9cd9100e7c8aaa2724"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 269800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "a1fafb7513ca7ef79a5b67b08b0484c62ef504d5bb82057752c633f06f5cd448"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "jp",
+      "field": "educationPrice",
+      "price": 251800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "0f853562a971bca9db94f3d05e41e4131d74ee9d93b429d09c469bb8d58c1996"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 2499000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "02fe8a5f03da96f22362bd2a760a6071774b8fd71caa9ff542602793ce12a96c"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "kr",
+      "field": "educationPrice",
+      "price": 2330000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "48ee55d403a220dc3dc32d68413bffedb51a5db189a7ae7fae686da352c48141"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "my",
+      "field": "localPrice",
+      "price": 6799.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "81b40d3b84c5389f31c27144144d3dc7ada8cb7a5191d64f87f079f984704966"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 6349.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "fd0f08de00199ff3594e9d8ea1dbaef6f6bcf3c6541327f13333470a1a30429a"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 2299.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "7cd66b14b4cf9255977e4107b6f2807297d744ae3304586aa49d8f157292aac2"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 2149.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "8a1102c733dd2c3df50eabe3dbf6f6b770bfa931f27cfec83a1b877d1e15ea77"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "th",
+      "field": "localPrice",
+      "price": 54900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "e0eaad5487dadc1f94b7091cf2a0d52c51b2ce56a1c908de088320ee91f9489d"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "th",
+      "field": "educationPrice",
+      "price": 51200.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "1d05d61f6f42530c5fff28eb6b49e59d44b9c35154b8eeb9e4b2a1e17d2db625"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 50900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "35a33249581d6e2b97b01b9e23b23bb24148f8abda7cce92a0a4d71e197aff05"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "tw",
+      "field": "educationPrice",
+      "price": 47500.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "f8006d0ac770d1e751c071207e3a09ed2dd443aa00899ee1f1b6d02a7d77309a"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1499.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "bf1ed2003c1dd9dfb65b76bdaadcd74e52c368ee9984f1230a943d56b59f8983"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 1399.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "d1cf53562a19d3541b6dfe29f03778b5c757e551dc74364bdda91423d9a25e5f"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1499.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "a915a5e36a047814f223e0b05d6da688fe208bcde9a2e1c0cbac80ca8a3c878c"
+    },
+    {
+      "skuId": "ipad-pro-13-256",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 1399.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-ipad/ipad-pro",
+      "extractor": "exact-analytics-family-size-capacity-wifi",
+      "pageSha256": "1285fed73854763eb20a27f2e04d42755cbaa3c247ff7e90dd38539e26874114"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 1199.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "85eba1c7fd39041c6ec3a8a581eb111854d71cbf211c70290657702fc349471f"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 1099.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "190d2314e735a444671f5571c7b266705fecdf7100fb7c40c376b3f830aab814"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "au",
+      "field": "localPrice",
+      "price": 499.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "2b7301e3b55c323f2770cadcd632311bdfc8a540bf7677089680111d994a7840"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 469.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "4eba449f45d21593bc0b97b539a0845cd6403d3e493e916a286ba52a55cb5137"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 399.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "ff7105cca8545e295cf8c2a90c757eeb6b4f686adf148f39924158515bc963dd"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 369.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "1881c9408042879bc07ee97f23c516543da30c7de9e26b6aa3e7aa987cf1926d"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 2399.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "9e6331df6ece349cfc954770d9bf99d4c9c84ab36d79fa832055f4cc0b887cbd"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 2199.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "3a417dcf9fed9da307729e55fe8936ebebbacff9d38651face2d08d799c1d5f5"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 2299.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "d96f7c88b87349a90b35cd0f979e8be2f00a5e8c3842c75819d82c8d0971cec5"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 2099.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "2a1948ee61d5a9a48befd77c69ddf4e33a615ce0d69e54bd2af0b456e5866f2e"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 54800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "ed6f6f19b6a68289e96243637566ca452fb7b868a3107401a88dddfd79b2b8c8"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "jp",
+      "field": "educationPrice",
+      "price": 50800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "22ef533110e332ecb772de94958db177ef9588f06823f3d5ac5ef0af44a541f0"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 449000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "52206955721e9aa5d38af88618d777bcb8635b6612c00c10df402ef2beb6648c"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "kr",
+      "field": "educationPrice",
+      "price": 420000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "0680dfee5025e4cdd9de45b59ca2e9b40978f958b046074c752f66a15c191820"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "my",
+      "field": "localPrice",
+      "price": 1399.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "039d6dcd197e7999c1d64b5a66d94d417549c49df04a1d1424e2f9914a25debe"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 1299.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "c13639ce0c8d2a7aecbbf2e8f25f0877155e5e3ac487d5096a024f4edf58b14a"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 449.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "eb079558a04461b974a74c46f61db35541fd60357976b656d96dd355e3a6062c"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 419.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "b496c67d1055f86ecef9ecebdc65339d8859293332ade73961dcc03c6f2806aa"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "th",
+      "field": "localPrice",
+      "price": 10990.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "5abf19351c61c115403a9830852c5f18a42489fa620e4c15e0d3e1bb6928cd95"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "th",
+      "field": "educationPrice",
+      "price": 10190.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "79ed68cf55fdb9677a561de6fc471da3ca19fd0529461867b64789d5d4266f08"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 9890.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "2975834e96403914ebeb9c7abd873e10d00cae98bc715803c29e5450faab8b6d"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "tw",
+      "field": "educationPrice",
+      "price": 9200.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "825db5c81ca17bfae177ac3d51786c7c9d387231db488f11e85cb605c450188d"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 299.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "3fae8cfe72f072765808c4e28f97106080d95d707f29acd9dbe6246a626e840f"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 279.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "d2bf580bb35e24ff89c7e5540bac8c8faa7631bb68bed03359b177982acb887e"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "us",
+      "field": "localPrice",
+      "price": 299.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "cc4d957482b64e5ccc05ea151e9cced367228ddb82d63320f3abd22e12d0445a"
+    },
+    {
+      "skuId": "ipad-pro-11-magic-keyboard",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 279.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/select-ipad-keyboards",
+      "extractor": "exact-mwr23-product-group",
+      "pageSha256": "9f23f38f0b7fdaf92e894cfd1082643367a0405e86daaa89ac5f7e09e8e99e5d"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 3399.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "84cbd5225b0c8a98890fb9c899f5e2a610224cbf677a45509fa1db9db3ed1417"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "au",
+      "field": "localPrice",
+      "price": 1399.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "8e52e97d039df12526748501cc0bf5c55656320b933c8b7a15f4c62bc8ae8865"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1129.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "1f86ed67e1e199eb5dfe27edfb7f971dd9826213fa2f42b7a47cd8ed6546d300"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 5999.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "d8bac7ed457d81a565756c5b7087dbb82aa45f4a480064d195a3fb7c43a55285"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 6899.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "5aa31216b1af5ef46aa5d387896ea4680b0310cbc38dc9f2dfc0746ae4fb3ed6"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 142800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "82aba7e5574776c0f83f87c94df45a3f18d239e77dcd4172fb5d2f539cccf469"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 1290000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "fb2d6a133bed1ede086ce1d6b0e31bdceab22aa2e2413300477c90e6cd927793"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "my",
+      "field": "localPrice",
+      "price": 3999.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "d76302fc44b36f9aff4e6f144554f2897a328333b1953497b4ec52a9062d5910"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1299.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "7650e6cd011318482e77ef0819f4feb71adf698267b4658df04bfb27657b14a3"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "th",
+      "field": "localPrice",
+      "price": 29900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "15ce14733f8f2074429a1411a783e7848472c263debec573463f79cf21229137"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 29900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "14a03e609244b0045d4c8909132d336a5a71bf32910c8929ef98188242fb9809"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 799.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "24f647c77cc868e97741fd1b5958cafa7e673a05daafff72a6bbdfdc39582f58"
+    },
+    {
+      "skuId": "iphone-17-256",
+      "region": "us",
+      "field": "localPrice",
+      "price": 829.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "d0e8777a9b15132f4a7e543dca8b18a750ec9665494de14323772a3dd629462d"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 4249.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "84cbd5225b0c8a98890fb9c899f5e2a610224cbf677a45509fa1db9db3ed1417"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "au",
+      "field": "localPrice",
+      "price": 1799.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "8e52e97d039df12526748501cc0bf5c55656320b933c8b7a15f4c62bc8ae8865"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1429.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "1f86ed67e1e199eb5dfe27edfb7f971dd9826213fa2f42b7a47cd8ed6546d300"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 7999.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "d8bac7ed457d81a565756c5b7087dbb82aa45f4a480064d195a3fb7c43a55285"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 8599.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "5aa31216b1af5ef46aa5d387896ea4680b0310cbc38dc9f2dfc0746ae4fb3ed6"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 177800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "82aba7e5574776c0f83f87c94df45a3f18d239e77dcd4172fb5d2f539cccf469"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 1590000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "fb2d6a133bed1ede086ce1d6b0e31bdceab22aa2e2413300477c90e6cd927793"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "my",
+      "field": "localPrice",
+      "price": 4999.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "d76302fc44b36f9aff4e6f144554f2897a328333b1953497b4ec52a9062d5910"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1599.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "7650e6cd011318482e77ef0819f4feb71adf698267b4658df04bfb27657b14a3"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "th",
+      "field": "localPrice",
+      "price": 37900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "15ce14733f8f2074429a1411a783e7848472c263debec573463f79cf21229137"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 36900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "14a03e609244b0045d4c8909132d336a5a71bf32910c8929ef98188242fb9809"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 999.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "24f647c77cc868e97741fd1b5958cafa7e673a05daafff72a6bbdfdc39582f58"
+    },
+    {
+      "skuId": "iphone-17-512",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1029.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-iphone/iphone-17",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "d0e8777a9b15132f4a7e543dca8b18a750ec9665494de14323772a3dd629462d"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 4699.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "6ab8743008803368701f9fde17c92f54ee7e0ba9a626cfbb70f3660cd19fbd60"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "au",
+      "field": "localPrice",
+      "price": 1999.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "57d1fc9bc857c2a862a529df8867402d6581481b8e933efdf6cd4d0f3c867ff9"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1599.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "d0313dcd392e92364165581fefbd9f05b9d3ad38123055173ce2020cc3d62bc2"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 8999.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "fa08b786876f0f8c1edee2234003721cbeab7774d5fa73d338fd4d0a1fa2e93c"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 9399.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "e005ca69969349bd9e0d1dc3810f1e90f1fd724eded3447b51bacade024af919"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 194800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "f2dc0af027167107b7af74649a55e0e8792f84d81c7be04a33cf4c878b73a719"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 1790000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "12d82d6d8585d529c3a24727524f4b5e97c11f85ba39e52a7ab28e3d1e1ad188"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "my",
+      "field": "localPrice",
+      "price": 5499.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "b97ea666aa7ed3b2a919863d18507e907e08d41fc24163207874c6bc4801ac97"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1749.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "3be055daddea399d906f910a7d2a0b77be3ee984fee6eee9b8a857de31732df2"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "th",
+      "field": "localPrice",
+      "price": 43900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "dcbefb9bc2d83e880bc63bc37ce8d3728ce47b742f6e4b0f9fc8a4d3b32ab809"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 39900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "086d90861a5d9d71f1e6cca283ce05a94d8888b12ee77a109cab5761138844d0"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1099.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "8d41fd200abee2bee425b6b85003884b7caf6f531ce48c80bb97b1bd5df84d74"
+    },
+    {
+      "skuId": "iphone-17-pro-256",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1099.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "3864e9f489d8075e1738e3ab17748cb34571d8000199160b9ab1e9b47afd7acd"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 5549.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "6ab8743008803368701f9fde17c92f54ee7e0ba9a626cfbb70f3660cd19fbd60"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "au",
+      "field": "localPrice",
+      "price": 2399.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "57d1fc9bc857c2a862a529df8867402d6581481b8e933efdf6cd4d0f3c867ff9"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1899.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "d0313dcd392e92364165581fefbd9f05b9d3ad38123055173ce2020cc3d62bc2"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 10999.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "fa08b786876f0f8c1edee2234003721cbeab7774d5fa73d338fd4d0a1fa2e93c"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 11099.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "e005ca69969349bd9e0d1dc3810f1e90f1fd724eded3447b51bacade024af919"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 229800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "f2dc0af027167107b7af74649a55e0e8792f84d81c7be04a33cf4c878b73a719"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 2090000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "12d82d6d8585d529c3a24727524f4b5e97c11f85ba39e52a7ab28e3d1e1ad188"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "my",
+      "field": "localPrice",
+      "price": 6499.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "b97ea666aa7ed3b2a919863d18507e907e08d41fc24163207874c6bc4801ac97"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 2049.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "3be055daddea399d906f910a7d2a0b77be3ee984fee6eee9b8a857de31732df2"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "th",
+      "field": "localPrice",
+      "price": 51900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "dcbefb9bc2d83e880bc63bc37ce8d3728ce47b742f6e4b0f9fc8a4d3b32ab809"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 46900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "086d90861a5d9d71f1e6cca283ce05a94d8888b12ee77a109cab5761138844d0"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1299.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "8d41fd200abee2bee425b6b85003884b7caf6f531ce48c80bb97b1bd5df84d74"
+    },
+    {
+      "skuId": "iphone-17-pro-512",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1299.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "3864e9f489d8075e1738e3ab17748cb34571d8000199160b9ab1e9b47afd7acd"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 5099.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "6ab8743008803368701f9fde17c92f54ee7e0ba9a626cfbb70f3660cd19fbd60"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "au",
+      "field": "localPrice",
+      "price": 2199.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "57d1fc9bc857c2a862a529df8867402d6581481b8e933efdf6cd4d0f3c867ff9"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1749.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "d0313dcd392e92364165581fefbd9f05b9d3ad38123055173ce2020cc3d62bc2"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 9999.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "fa08b786876f0f8c1edee2234003721cbeab7774d5fa73d338fd4d0a1fa2e93c"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 10199.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "e005ca69969349bd9e0d1dc3810f1e90f1fd724eded3447b51bacade024af919"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 214800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "f2dc0af027167107b7af74649a55e0e8792f84d81c7be04a33cf4c878b73a719"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 1990000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "12d82d6d8585d529c3a24727524f4b5e97c11f85ba39e52a7ab28e3d1e1ad188"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "my",
+      "field": "localPrice",
+      "price": 5999.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "b97ea666aa7ed3b2a919863d18507e907e08d41fc24163207874c6bc4801ac97"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1899.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "3be055daddea399d906f910a7d2a0b77be3ee984fee6eee9b8a857de31732df2"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "th",
+      "field": "localPrice",
+      "price": 48900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "dcbefb9bc2d83e880bc63bc37ce8d3728ce47b742f6e4b0f9fc8a4d3b32ab809"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 44900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "086d90861a5d9d71f1e6cca283ce05a94d8888b12ee77a109cab5761138844d0"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1199.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "8d41fd200abee2bee425b6b85003884b7caf6f531ce48c80bb97b1bd5df84d74"
+    },
+    {
+      "skuId": "iphone-17-pro-max-256",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1199.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "3864e9f489d8075e1738e3ab17748cb34571d8000199160b9ab1e9b47afd7acd"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 5949.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "6ab8743008803368701f9fde17c92f54ee7e0ba9a626cfbb70f3660cd19fbd60"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "au",
+      "field": "localPrice",
+      "price": 2599.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "57d1fc9bc857c2a862a529df8867402d6581481b8e933efdf6cd4d0f3c867ff9"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 2049.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "d0313dcd392e92364165581fefbd9f05b9d3ad38123055173ce2020cc3d62bc2"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 11999.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "fa08b786876f0f8c1edee2234003721cbeab7774d5fa73d338fd4d0a1fa2e93c"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 11899.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "e005ca69969349bd9e0d1dc3810f1e90f1fd724eded3447b51bacade024af919"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 249800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "f2dc0af027167107b7af74649a55e0e8792f84d81c7be04a33cf4c878b73a719"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 2290000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "12d82d6d8585d529c3a24727524f4b5e97c11f85ba39e52a7ab28e3d1e1ad188"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "my",
+      "field": "localPrice",
+      "price": 6999.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "b97ea666aa7ed3b2a919863d18507e907e08d41fc24163207874c6bc4801ac97"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 2199.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "3be055daddea399d906f910a7d2a0b77be3ee984fee6eee9b8a857de31732df2"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "th",
+      "field": "localPrice",
+      "price": 56900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "dcbefb9bc2d83e880bc63bc37ce8d3728ce47b742f6e4b0f9fc8a4d3b32ab809"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 51900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "086d90861a5d9d71f1e6cca283ce05a94d8888b12ee77a109cab5761138844d0"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1399.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "8d41fd200abee2bee425b6b85003884b7caf6f531ce48c80bb97b1bd5df84d74"
+    },
+    {
+      "skuId": "iphone-17-pro-max-512",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1399.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-iphone/iphone-17-pro",
+      "extractor": "exact-analytics-model-capacity",
+      "pageSha256": "3864e9f489d8075e1738e3ab17748cb34571d8000199160b9ab1e9b47afd7acd"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 6849.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "358ec8753bca1164f5fc3a2c01193a2b165fc6ab31e49c3805677729cb5e398f"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 6449.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "8d70fd9acdae786987aa3031d715d32768cec821bb3dea72c26f2413791a7934"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "au",
+      "field": "localPrice",
+      "price": 2549.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "3ce1a566c4f1b4172dbb66f1e084cd75de89c080c8562b19dbd295d9cd497bcd"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 2389.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "7ffeef007e499089e86bd6fd46f6cbf468e00664b8e6daab2d8c4060fcab55bb"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 2249.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "e408bc3187fe5bd6f58f50037bac05422f95463b373f5d2443705e24b994964c"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 2109.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "e24e3bdc61b23447cc4a7864af42400f62765c6b3bdce5633b93b5e10e5ab0be"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 12249.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "1d670f761ce871e4151c9706510a9122e20196806d8212229b3996835622c282"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 11499.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "ad8bcb857a98661e23c8466dba4530b79385354df558401694448f2a3436bf84"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 12749.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "b0e1fcda108c0403754dc23748b7992c69b7f215e3c5d5086523a5eb10774e48"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 11999.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "4714085c2a0aa63e01c4af97e9d6edebf6db1ebae33fd3833ddb18223d620a70"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "my",
+      "field": "localPrice",
+      "price": 6849.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "c0011dedcef4f9fc781b43b94a5314374f28877baefbac5430104ec84f4842ab"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 6449.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "7744bdd3da2ccc9bab733f32098b86ab567a9bbea9b8849804cdb4e3752f21c4"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 2349.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "7ad2f18014cf492545cf7983d965f3ea80f28435e811b1f02664493243b7ca2d"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 2199.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "3701a98e00d7c70e9f2589680c8d38a5fe7f614c3c83d10204a2258f2c89bdff"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1599.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "74bacba6c57399213bdedc8dafdc189bb8e23d33187cdc0f25421960b496f85e"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 1499.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "b4d22ae5d260dbd51a9e931d71863561d94e14e0c21854a9ccd7d068397c42a5"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1599.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "d8389365a60ad1733291b7de1a3ba6a7e5201962ab8b85c963c35914f6da1d81"
+    },
+    {
+      "skuId": "macbook-air-13-1tb",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 1499.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "0bc0f6bd5aaed705970544eab589c5431b19990d7c7cbf4ae375dc519c8a64fc"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 5499.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "b413abb67edbf24199afc1fa4f58036c7d515fde645d294a695fdb4424d9d202"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 5099.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "8c07b67120661632b98a003b453d2913a02626411c29c44a577f765f1414ca03"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "au",
+      "field": "localPrice",
+      "price": 2099.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "d373eefa2b5c37fde0ec17577b8d652f2447272c0759b39be958fcc06bc88568"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 1939.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "a85bc875089bc91d59405d55ecbe4f88dd3681eedfb90c9a28a5e89b98b2330e"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1799.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "ec43a59368f800682805381ba8c3555769ee598a284364c753f63c79e85913a5"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 1659.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "dd5780c399f0410fa2ab21bf37b2b29d642786a4d96d7d6ecb20ee559e1d4a3a"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 9999.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "d1a3f349f47486aaa133c901a988b84b49e89ef8c3481e17519fd7ccb909f8f6"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 9249.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "84aeab1ee8ce29199cbee918a30f76cd9b40f3964e83b17a396de1d803457c15"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 10499.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "aa0002d694dfe16f7a330aec141b4832ecb95b6bf793a21d9e61707409a385ce"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 9749.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "27e0c3f7b721928104d7eac8ac9f5f76574929554d2762712daf9649a1cea460"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "my",
+      "field": "localPrice",
+      "price": 5499.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "7b7299a675c1d3110f8f6ecb5b062aa7af7e7878785848a7043753e73df5fac6"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 5099.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "5cb393ad0d7d2594703482681a8f42157d38523f3f839cd2c0b6ef98d375ed13"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1899.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "4c7471da9119f5ed0232cc0c35c40e17082d86e73f39e016a8e71ecf78fa90af"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 1749.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "65e0c88b0f3d2049b139f555c296284987cfcf4de12ed151f4c757a6ea05c803"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1299.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "7326b21c0e5c912289c669d9a91167e6662d14dc643fd5eca71024746621f02f"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 1199.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "be682fe2adced53ed4c88af0d51dc91a8e85e02ee9ee67ca397ca93c93c2c205"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1299.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "8484c4773744e3eb3c998366fc1550c3dcbd82360ca1fee55b4c91f414ef0b9e"
+    },
+    {
+      "skuId": "macbook-air-13-512",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 1199.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-mac/macbook-air/13-inch-silver-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "09d216c1339dccbe491185ef39391d2124b8e22c475b7914b0d77ec72a5b54f7"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 7649.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "38b70fef292e3890b4d8321d13cf996896d58864f8d5a1254c3b338c1b3087fc"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 7249.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "270c95e41217d16b8f3c5d7d1896b2a48fa1ea61b9c799902fd05c7913f20026"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "au",
+      "field": "localPrice",
+      "price": 2949.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "8b801b4d6bcf1569fd7a29c62fdbe882f4786191ca4994d9b152fdcbae5828d4"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 2789.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "bb1de2a227dc6c294216893f41e8f251bd0b379aa0d175d6321ab5f682989fb3"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 2549.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "757226a0059fce7c4beb3e618c1106a87787403745c36fd52fb5ed468ce80a08"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 2409.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "5c93f0901b28292edfb831d1c65f8aea7020459b348194d0af1f8b56caf32039"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 14249.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "25c6eb42a0c6c960193019c7676b4bafb4929ec094d5da7eb59b13b231bf053c"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 13499.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "485dc0aa1be643770095a2493a80a2d043593d2a327174b9eb7d4df172062fc2"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 14249.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "07821ae9ec62ed9263d8bac4b13d9f2a7b9ad142ed5f8ef7dc8587ef477555df"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 13499.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "ac3de3a2d88055570e28cb0c2ed46f554637b81dfa11e6ff6c4ea5764ce46509"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "my",
+      "field": "localPrice",
+      "price": 7649.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "c5acaa46941a8bd6f0fb02c4d22bc8e9fb614f1f84c37f126e0fa74428cc1496"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 7249.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "72486aa8f004caadefb3d3d70882814f7933beddfb3edad23165b1ba9148d5d6"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 2649.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "49a2b9e90630be0e317877736da67e085a8124ce1b31cb01ec08796791cb1b17"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 2499.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "5b07527617a75f3d51eb490c449e757390faea4f19e9ff52ed6a91b5fcf74af9"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1799.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "67047fdb816c24def4fe73cfd1be0d38e792ad8b45e931071e3c1cfa3016f912"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 1699.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "ea831b5373d3e96a6f0d84638d08ed587e2bd4c3115576083f92024580b7ef88"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1799.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "00a2a65d1865262e256f0aa2bf08c0d72fe904170ae9fa0e5062247546c73f97"
+    },
+    {
+      "skuId": "macbook-air-15-1tb",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 1699.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "6407fb6b1d4c0e6413ff41631b157a96ad7a104fee96a6b9eb1131fab9abec8c"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 6299.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "96b8650817fb08345189e185b19c7c4bfe752c6cbbb4ab1afc1585fdb83cedc7"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 5899.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "77efe595e4f372f130ec0a2e1c0fb31cb7c70abaec03688bfa071355d9fa003b"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "au",
+      "field": "localPrice",
+      "price": 2499.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "84411fd1c6c6c425b6fc4cb39d00021b238934e7801cce7eaaf4af707b48c61e"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 2339.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "dad7d911e57a55a49896fcb335630e1c7d3ec66b7e1aa459a30e60f10f3ddf9b"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 2099.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "0e33e041770b0cb840b6e84a800985ac766d77276a5775f69142a6c7d79143b2"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 1959.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "fc0720c256b18ec8b669cb18b2b6e4b2a16eb9bf58c0149255748e1107db987c"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 11999.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "4d1210846e3b541b791f527e585fec6e20bf30f32d71d52a5ebd0409d5f2d586"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 11249.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "d2fbaabbc4c5da95db957631a540c38d06fe73d397d71e23bdc92fd721903e38"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 11999.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "9f468d5bade6dc51378df778a8846053a5fa793209eb7d2eded3569f6b16b9e8"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 11249.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "264abee3fe52628e61598af313a048c3432fcf3ff32f14390a5084f53e8a4a93"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "my",
+      "field": "localPrice",
+      "price": 6299.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "f21c6ab0d693e4fb5134a3f494fd9b40094095fdc496a409e16e79167b79138d"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 5899.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "d47c0a770251aa51917a5625573dc1054dccb3bd684780bf6386ac888cd6e719"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 2199.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "c5ba2c449cfa19ed9cffa627e5a40244a6083c19acf38c363e8be625d5139b8b"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 2049.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "8526e95e5a16df41ed0a9dfa51487fc040e54c427d2da0500de97ae9e330199e"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1499.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "0ea1bb318906834c57c3c66df51d521fe9b8e16688f0124115ccceed447cbcdf"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 1399.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "363caa9ebfe5f7c408b3abd3eae6d286712c7b1c000b4db515fa3573c7dec46e"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1499.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "2a72c1a02bf3cf2d7f81684ad3c9abf676aca50cd9e954e1a59a408e75f7bffa"
+    },
+    {
+      "skuId": "macbook-air-15-512",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 1399.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-mac/macbook-air/15-inch-silver-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "ed263f801894df547c9fe80caa5716719a499ace7838d924511ec9b5cb66c6f0"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 8499.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "e8fe61b142638edf6d8ddc5d40b446acc65688e6e0d5f5b9c0d49f4facdeb068"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 8099.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "79fe718a00a0225ae37db0fe4377a89da6e4bf6cfef323c34fdaa6c26233f1f7"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "au",
+      "field": "localPrice",
+      "price": 3199.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "1491d9ab4d58176f5eecf86fcc3cdf3b2002fd824a56fd47baee4ea6779bbacd"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 3039.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "2516f5c8575b88a044e9aad513c4e33a8512703917f8e92e9fd7d81e13e5f1db"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 2799.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "6f3e5d44fa042a11613e64f08ede7062cf0d8bf75d402d0f7ab8ba768e5b7f95"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 2659.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "14a6be2e189368e46e628f5c829c11e77d242403f5a373e61643c9f3d34665aa"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 15999.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "fb35f0fb838ce411c826f58d1acaf3b35f6b25a0e6f9af572dc834fc4d03375f"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 15199.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "7a6ddf893c01f8ada5ab7938173787ab8a74b5bada09eeafbe3106dc2424dfbf"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 15999.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "7a7a7bdd1f81fc7055d353df71bb41c70fe36d244d6932ec77680c567c034e34"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 15199.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "60dd82cb9d3e5944ce2c2efceebd66584244fdfc94512bcb39f6885d3b6462c0"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 339800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "eba6b6a40d3665e163b0ab1339da6a7fef5c090a1d1e386de8c5876bb7d2a7d7"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "jp",
+      "field": "educationPrice",
+      "price": 322800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "dfe8a1f332af7f6d95568e2ffa84860a1735a9e16cfd886b9d4764efdb81bba2"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 3290000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "e8ea392d7a3252f93816e1944dab581673e22a39dd914d12410a0dfc90c9481c"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "kr",
+      "field": "educationPrice",
+      "price": 3125000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "04df51cbd05b46e289048556181035f8dfbaf8a9995f626d5dfb29de57f8b399"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "my",
+      "field": "localPrice",
+      "price": 8299.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "f41590c375a0b5be628984b94899e5cd8771533dd3df68a3449ccc889551aef1"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 7899.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "0ca0af66be5789994c4f24fe4c399fa4e04c320f1a68251790487d07af1671ad"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 2699.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "3e55291450fd1115afb0f9ecebc24c929858ba07dd40e2f0072f7dc85c0f9fea"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 2559.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "a1af1b33b6e4e3904d6e0b2f8bbad77e6c193e20330143c664b49a12ae155716"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "th",
+      "field": "localPrice",
+      "price": 69900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "0437abe598e85a5456a3317fe11649c49797c5b85736b02fb47846b6b780cc3d"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "th",
+      "field": "educationPrice",
+      "price": 66390.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "ae593beff58d53f032baf28eb3e4d7269d7d8a0e499192b9d8d019818c1899a6"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 64900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "afe400a38adcb274fb44dd809e40b2416a400bc9acfe4035067bd31d280e2c21"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "tw",
+      "field": "educationPrice",
+      "price": 61690.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "8f900c50733c130bf353b06857380272063fd086595a84d60b95db3ce99e024f"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 1999.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "86fc46a708e685665a8533051e34468fa679c87ac7c7cd64ebcab772800b06d2"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 1899.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "3c219bef42e81259b74ba9fa6c3c4f1abb96fbfe44dbfc8fe006e4142dbdcbfe"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "us",
+      "field": "localPrice",
+      "price": 1999.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "d5a6e6c1a513c103e862bff140297f729da8f98e93a9506869728c26610cf8f8"
+    },
+    {
+      "skuId": "macbook-pro-14-1tb-16gb",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 1899.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "e503943ef358fde4ae96825417390a3c5244f8ab632bcccf73eb5833ca386c25"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 12499.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "a25fea4e6816dd5d4a6c4d0de92d09df3ea5b2fe1cd0ce50f4de2aa02d9ecba4"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "ae",
+      "field": "educationPrice",
+      "price": 11699.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae-edu/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "e60738a5fb0157ceeda1a438dd570ea5c179583d22ae2bd2ed40946c962db77f"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "au",
+      "field": "localPrice",
+      "price": 4799.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "a5395e66e4d2f10c7c1fe0f7cedbc248bf98084e0f6190338e8534e589214da8"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "au",
+      "field": "educationPrice",
+      "price": 4479.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au-edu/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "0687574dba4af8df91d97766002e3f2ea69170cc24d4d0aeffcd653d2243b27a"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 4199.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "30db1d1c4e8890bb9ea6edade1308fcfb5a2f635a0680118cd0dc8313221c1e1"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "ca",
+      "field": "educationPrice",
+      "price": 3919.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca-edu/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "f682fe3b9bdd651494fcd1c629c11169bfe9b46de1d3128a846dba87020b0954"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 24999.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "e16a6def0cf41ae4b3020dea6f700106bc2ddc722eb13f7a5038fb8c1ace0b5b"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "cn",
+      "field": "educationPrice",
+      "price": 23399.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/cn-edu/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "208c1cf68fb72258597dd1c49e0fff84ef1ddb615e0e99d3bf55961c2b9c2080"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 23999.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "c6f6779eb114461e5207c826b8f34bf84e3f6600483bd8125bdddd60329b9ba3"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "hk",
+      "field": "educationPrice",
+      "price": 22399.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk-edu/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "d06e8d434ddb2426a7b68c8d51ea4d7577a7deba7a8252c7f0c37507d370906c"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 519800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "eba6b6a40d3665e163b0ab1339da6a7fef5c090a1d1e386de8c5876bb7d2a7d7"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "jp",
+      "field": "educationPrice",
+      "price": 484800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "dfe8a1f332af7f6d95568e2ffa84860a1735a9e16cfd886b9d4764efdb81bba2"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 4990000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "e8ea392d7a3252f93816e1944dab581673e22a39dd914d12410a0dfc90c9481c"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "kr",
+      "field": "educationPrice",
+      "price": 4656000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "04df51cbd05b46e289048556181035f8dfbaf8a9995f626d5dfb29de57f8b399"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "my",
+      "field": "localPrice",
+      "price": 12499.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "14c52946c4631f1acb4ce8f134bf0dd9fe46fceda1836981453470be769eb518"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "my",
+      "field": "educationPrice",
+      "price": 11699.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my-edu/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "39789189a268744a802e4155e507927dd9640cb0d2376411ff580abd422df071"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 3999.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "fef0c17b43a610721a10ccc4aa90d027d6837d94f8e44f6150b17b73aa875fa9"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "sg",
+      "field": "educationPrice",
+      "price": 3729.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg-edu/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "9ef964ab1c864989772e58d85fe6fbd5e85d791a6db661204ef58aded6b43afd"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "th",
+      "field": "localPrice",
+      "price": 104900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "0437abe598e85a5456a3317fe11649c49797c5b85736b02fb47846b6b780cc3d"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "th",
+      "field": "educationPrice",
+      "price": 97890.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "ae593beff58d53f032baf28eb3e4d7269d7d8a0e499192b9d8d019818c1899a6"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 99900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "afe400a38adcb274fb44dd809e40b2416a400bc9acfe4035067bd31d280e2c21"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "tw",
+      "field": "educationPrice",
+      "price": 93190.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw-edu/shop/buy-mac/macbook-pro",
+      "extractor": "exact-chip-size-key",
+      "pageSha256": "8f900c50733c130bf353b06857380272063fd086595a84d60b95db3ce99e024f"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 2999.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "97f7ae82652e02775e8bfbbabaf458438fbae25711b692ae492291463d66718d"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "uk",
+      "field": "educationPrice",
+      "price": 2799.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk-edu/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "04636ecc471fdbd5a03079816cc9e0a5c1168dd3e85ad6e997f7745051cbf2a5"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "us",
+      "field": "localPrice",
+      "price": 2999.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "64a72aad002dd6f842763a4d0d94cb40fca386197139de775fa557dee0082f6f"
+    },
+    {
+      "skuId": "macbook-pro-16-1tb",
+      "region": "us",
+      "field": "educationPrice",
+      "price": 2799.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/us-edu/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m5-pro-chip-18-core-cpu-20-core-gpu-24gb-memory-1tb-storage",
+      "extractor": "exact-product-page-analytics",
+      "pageSha256": "3b99773f61902c5f6a785a177bef43a1fc806468f310b4eb77ae434f3d099b6f"
+    },
+    {
+      "skuId": "vision-pro-1tb",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 16999.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "e70d739cd2d45eb933d0fc835d2f65bfed849ac9e7e8796091921b4cbc477040"
+    },
+    {
+      "skuId": "vision-pro-1tb",
+      "region": "au",
+      "field": "localPrice",
+      "price": 7199.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "ab93eb018db53e32e6c8a9fcb0f35671aad56be04bf60255bbbc685cbb15129b"
+    },
+    {
+      "skuId": "vision-pro-1tb",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 6049.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "15b86325c503236c29d6b975efe15e7f3eb0a644bce2e590423a1e124e700a7e"
+    },
+    {
+      "skuId": "vision-pro-1tb",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 35749.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "72b9ba1139a75552134ad861179ad0277d26c8e947e17f0fa690a0c00f618745"
+    },
+    {
+      "skuId": "vision-pro-1tb",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 33749.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "80e6d7189f1c5d2e09d52ce3a6b38f3c288d9f512fb5af1a69fe55b4eb340003"
+    },
+    {
+      "skuId": "vision-pro-1tb",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 739800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "7099bf4d02f13a747f6612285153b78cec06c805f1383370b6732f83622a1019"
+    },
+    {
+      "skuId": "vision-pro-1tb",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 6665000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "70b7d4ba81bc1d5419e606a0fc251fa054466a8b0df5da3ae6f0b233922d6a5d"
+    },
+    {
+      "skuId": "vision-pro-1tb",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 6049.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "964d9feb435f23f8f04a1a6905ae1f791ac1ce935722788b8109ad8b65e06825"
+    },
+    {
+      "skuId": "vision-pro-1tb",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 147400.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "f84135ca5faae176eb328dcb695999f1eb4ebe4dc469cff6896fda2f1e81dfb8"
+    },
+    {
+      "skuId": "vision-pro-1tb",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 3999.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "bbccbaaca9b1b146a9c553743602bb0b6d711bfe7921d90ea5e023924d880b69"
+    },
+    {
+      "skuId": "vision-pro-1tb",
+      "region": "us",
+      "field": "localPrice",
+      "price": 4199.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "b1a238881719ffb2510d19d6e9ace65462ae41900c66084b650c73a2ee9d46eb"
+    },
+    {
+      "skuId": "vision-pro-256",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 14999.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "e70d739cd2d45eb933d0fc835d2f65bfed849ac9e7e8796091921b4cbc477040"
+    },
+    {
+      "skuId": "vision-pro-256",
+      "region": "au",
+      "field": "localPrice",
+      "price": 6299.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "ab93eb018db53e32e6c8a9fcb0f35671aad56be04bf60255bbbc685cbb15129b"
+    },
+    {
+      "skuId": "vision-pro-256",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 5299.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "15b86325c503236c29d6b975efe15e7f3eb0a644bce2e590423a1e124e700a7e"
+    },
+    {
+      "skuId": "vision-pro-256",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 31999.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "72b9ba1139a75552134ad861179ad0277d26c8e947e17f0fa690a0c00f618745"
+    },
+    {
+      "skuId": "vision-pro-256",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 29999.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "80e6d7189f1c5d2e09d52ce3a6b38f3c288d9f512fb5af1a69fe55b4eb340003"
+    },
+    {
+      "skuId": "vision-pro-256",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 649800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "7099bf4d02f13a747f6612285153b78cec06c805f1383370b6732f83622a1019"
+    },
+    {
+      "skuId": "vision-pro-256",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 5790000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "70b7d4ba81bc1d5419e606a0fc251fa054466a8b0df5da3ae6f0b233922d6a5d"
+    },
+    {
+      "skuId": "vision-pro-256",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 5299.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "964d9feb435f23f8f04a1a6905ae1f791ac1ce935722788b8109ad8b65e06825"
+    },
+    {
+      "skuId": "vision-pro-256",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 129900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "f84135ca5faae176eb328dcb695999f1eb4ebe4dc469cff6896fda2f1e81dfb8"
+    },
+    {
+      "skuId": "vision-pro-256",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 3499.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "bbccbaaca9b1b146a9c553743602bb0b6d711bfe7921d90ea5e023924d880b69"
+    },
+    {
+      "skuId": "vision-pro-256",
+      "region": "us",
+      "field": "localPrice",
+      "price": 3699.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "b1a238881719ffb2510d19d6e9ace65462ae41900c66084b650c73a2ee9d46eb"
+    },
+    {
+      "skuId": "vision-pro-512",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 15799.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "e70d739cd2d45eb933d0fc835d2f65bfed849ac9e7e8796091921b4cbc477040"
+    },
+    {
+      "skuId": "vision-pro-512",
+      "region": "au",
+      "field": "localPrice",
+      "price": 6659.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "ab93eb018db53e32e6c8a9fcb0f35671aad56be04bf60255bbbc685cbb15129b"
+    },
+    {
+      "skuId": "vision-pro-512",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 5599.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "15b86325c503236c29d6b975efe15e7f3eb0a644bce2e590423a1e124e700a7e"
+    },
+    {
+      "skuId": "vision-pro-512",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 33499.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "72b9ba1139a75552134ad861179ad0277d26c8e947e17f0fa690a0c00f618745"
+    },
+    {
+      "skuId": "vision-pro-512",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 31499.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "80e6d7189f1c5d2e09d52ce3a6b38f3c288d9f512fb5af1a69fe55b4eb340003"
+    },
+    {
+      "skuId": "vision-pro-512",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 685800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "7099bf4d02f13a747f6612285153b78cec06c805f1383370b6732f83622a1019"
+    },
+    {
+      "skuId": "vision-pro-512",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 6140000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "70b7d4ba81bc1d5419e606a0fc251fa054466a8b0df5da3ae6f0b233922d6a5d"
+    },
+    {
+      "skuId": "vision-pro-512",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 5599.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "964d9feb435f23f8f04a1a6905ae1f791ac1ce935722788b8109ad8b65e06825"
+    },
+    {
+      "skuId": "vision-pro-512",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 136900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "f84135ca5faae176eb328dcb695999f1eb4ebe4dc469cff6896fda2f1e81dfb8"
+    },
+    {
+      "skuId": "vision-pro-512",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 3699.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "bbccbaaca9b1b146a9c553743602bb0b6d711bfe7921d90ea5e023924d880b69"
+    },
+    {
+      "skuId": "vision-pro-512",
+      "region": "us",
+      "field": "localPrice",
+      "price": 3899.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-vision/apple-vision-pro",
+      "extractor": "exact-config-key+base-aggregate-check",
+      "pageSha256": "b1a238881719ffb2510d19d6e9ace65462ae41900c66084b650c73a2ee9d46eb"
+    },
+    {
+      "skuId": "watch-series-42",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 2999.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "ff1c9b27f23a44ad9fcc0b84dc0c1eb97a68f076941ca725da72fcc20aa94afd"
+    },
+    {
+      "skuId": "watch-series-42",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 3199.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-watch/apple-watch",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "e1a7fccf9d8b82daf31ee6b9c56abe042ff49d1cff1ce40439eab355e702a05e"
+    },
+    {
+      "skuId": "watch-series-42",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 71800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-watch/apple-watch",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "6a0597f36974152994d6d1f0309503bb86f751e529709c4a64162516d89d8ed3"
+    },
+    {
+      "skuId": "watch-series-42",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 599000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-watch/apple-watch",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "bb7ff31925180c7683a2aa7b640f35eefbe510ee6e93bac9b44c35858e52f2c9"
+    },
+    {
+      "skuId": "watch-series-42",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 12900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-watch/apple-watch",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "9b64f422ea1d575bd4762cb4ce9931e04df5659d8c267dd39828e3734ab997d1"
+    },
+    {
+      "skuId": "watch-series-42",
+      "region": "us",
+      "field": "localPrice",
+      "price": 399.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-watch/apple-watch",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "f0cff7e66ba5400d65c93ed690e3504424f4e5559882c862c8d23fe788b1d36e"
+    },
+    {
+      "skuId": "watch-series-46",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 3199.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "ff1c9b27f23a44ad9fcc0b84dc0c1eb97a68f076941ca725da72fcc20aa94afd"
+    },
+    {
+      "skuId": "watch-series-46",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 3399.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-watch/apple-watch",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "e1a7fccf9d8b82daf31ee6b9c56abe042ff49d1cff1ce40439eab355e702a05e"
+    },
+    {
+      "skuId": "watch-series-46",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 76800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-watch/apple-watch",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "6a0597f36974152994d6d1f0309503bb86f751e529709c4a64162516d89d8ed3"
+    },
+    {
+      "skuId": "watch-series-46",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 639000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-watch/apple-watch",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "bb7ff31925180c7683a2aa7b640f35eefbe510ee6e93bac9b44c35858e52f2c9"
+    },
+    {
+      "skuId": "watch-series-46",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 13900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-watch/apple-watch",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "9b64f422ea1d575bd4762cb4ce9931e04df5659d8c267dd39828e3734ab997d1"
+    },
+    {
+      "skuId": "watch-series-46",
+      "region": "us",
+      "field": "localPrice",
+      "price": 429.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-watch/apple-watch",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "f0cff7e66ba5400d65c93ed690e3504424f4e5559882c862c8d23fe788b1d36e"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "ae",
+      "field": "localPrice",
+      "price": 3199.0,
+      "currency": "AED",
+      "url": "https://www.apple.com/ae/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "6a3c9143a62e9311cec1afd20c59ede5be33234b2fb8cc4e1b60cfa6639b3a4e"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "au",
+      "field": "localPrice",
+      "price": 1399.0,
+      "currency": "AUD",
+      "url": "https://www.apple.com/au/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "cc770ef3cdabf13d27d86da1d4f9cf51b393ff86b9a0bb33e04b66c13afc6f2b"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "ca",
+      "field": "localPrice",
+      "price": 1099.0,
+      "currency": "CAD",
+      "url": "https://www.apple.com/ca/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "b8eb4c657a2951d5b0a1f5c2ee6c18fbb16d43f67dca160007e835af68096b0a"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "cn",
+      "field": "localPrice",
+      "price": 6499.0,
+      "currency": "CNY",
+      "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "7413c9debfe71e8f9fe44042b7a426ffbcc381ae2736ba86fe73c0ac75bc1a0d"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "hk",
+      "field": "localPrice",
+      "price": 6499.0,
+      "currency": "HKD",
+      "url": "https://www.apple.com/hk/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "f1a37d32d2d24df8e72fffa06cd35b6cf572c630f26dd0263e78429a43e08ef5"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "jp",
+      "field": "localPrice",
+      "price": 142800.0,
+      "currency": "JPY",
+      "url": "https://www.apple.com/jp/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "539084d169f75a8e14c60cac62bde9df7bd123cb7fe9a4ba8c3bbf3f211dd136"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "kr",
+      "field": "localPrice",
+      "price": 1249000.0,
+      "currency": "KRW",
+      "url": "https://www.apple.com/kr/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "d17574fbedf4ada3496465e0391ea40e094ff19668a292658eeebbaa2cd42883"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "my",
+      "field": "localPrice",
+      "price": 3699.0,
+      "currency": "MYR",
+      "url": "https://www.apple.com/my/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "40e8c6d332d6f3de628112ad60fc385928f8ac75494c9f37ed8cc3b65c112957"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "sg",
+      "field": "localPrice",
+      "price": 1199.0,
+      "currency": "SGD",
+      "url": "https://www.apple.com/sg/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "06fe564e19484dbdbae0b3fb2b36172f4314a953529ec96beaf746a303b8be81"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "th",
+      "field": "localPrice",
+      "price": 29900.0,
+      "currency": "THB",
+      "url": "https://www.apple.com/th/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "bd8657c279f294ffeb93decf5f1deab1b22d4c47a0784d2487e0d2f71ec8f83a"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "tw",
+      "field": "localPrice",
+      "price": 26900.0,
+      "currency": "TWD",
+      "url": "https://www.apple.com/tw/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "ac1f24d836ed5e4f40f41ddbf3ac61a4c6a202ba57e07f25154fd8e765ae6845"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "uk",
+      "field": "localPrice",
+      "price": 749.0,
+      "currency": "GBP",
+      "url": "https://www.apple.com/uk/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "f05c25bd6d94b615679362a8fcf79d353491926a1645e988bdf21d96f267a383"
+    },
+    {
+      "skuId": "watch-ultra-49",
+      "region": "us",
+      "field": "localPrice",
+      "price": 799.0,
+      "currency": "USD",
+      "url": "https://www.apple.com/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-3-gps-cellular-49mm-titanium-case",
+      "extractor": "exact-case-size-key",
+      "pageSha256": "35f1411850cb3b2062b34930147f08f60860d9e45435d93104fa1e739e9d25a8"
+    }
+  ],
+  "unmatched": []
+}
